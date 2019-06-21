@@ -1,2 +1,3 @@
 # 3desweblogicdecryptor
 3DES decryptor for Weblogic 
+Brutally copyed from the wilde...
